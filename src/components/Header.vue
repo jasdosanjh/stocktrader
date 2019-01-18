@@ -11,7 +11,7 @@
                     <router-link to="/stocks" activeClass="active" tag="li"><a>Stocks</a></router-link>
                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                    <li><a href="#" @click="endDay">End Day</a></li>
+                    <li><a href="#">End Day</a></li>
                     <li class="dropdown">
                         <a
                                 href="#"
