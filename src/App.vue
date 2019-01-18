@@ -14,6 +14,9 @@ import Header from './components/Header.vue'
 export default {
   components: {
     appHeader: Header
+  },
+  created() {
+    this.$store.dispatch('initStocks');
   }
 }
 </script>
@@ -21,9 +24,5 @@ export default {
 <style lang="scss">
 body {
   background: #EEE;
-}
-
-h1 {
-  padding-top: 30px;
 }
 </style>
