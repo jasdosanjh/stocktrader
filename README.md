@@ -1,18 +1,15 @@
-# stocktrader
+## Stock Trader
+Stock trader is a stock trading application made using Vue.js, and Firebase. The project is hosted on AWS.
 
-> A stock trading application.
+## Live Demo:
+http://vuejsstocktrader-deploy.s3-website.eu-west-2.amazonaws.com/
 
-## Build Setup
+## Built With
+* HTML5
+* CSS3
+* Bootstrap
+* Vue.js (Vuex)
+* Firebase
 
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## Acknowledgement
+This project is part of the complete Vue.js course by Maximilian Schwarzmüller. I've been following Max on YouTube for a while now, and I've always found his way of teaching to be clear, and very easy to follow. I would highly recommend his courses on Udemy, and his free tutorials which can be found on YouTube for anyone wanting to learn more about JavaScript, and in particular frameworks such as Vue.
