@@ -1,9 +1,6 @@
 ## Stock Trader
 Stock trader is a stock trading application made using Vue.js, and Firebase. The project is hosted on AWS.
 
-## Live Demo:
-http://vuejsstocktrader-deploy.s3-website.eu-west-2.amazonaws.com/
-
 ## Built With
 * HTML5
 * CSS3
